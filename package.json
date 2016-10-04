@@ -1,0 +1,11 @@
+{
+  "name": "QTpsi",
+  "version": "0.1.0",
+  "description": "QTpsi bot for the RSWiki discord, built on top of discord.js",
+  "main": "bot.js",
+  "author": "ThePsionic <me@thepsionic.com>",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "discord.js": "hydrabolt/discord.js#indev"
+  }
+}
